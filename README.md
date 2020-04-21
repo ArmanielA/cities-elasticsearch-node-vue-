@@ -1,4 +1,4 @@
-# bookestore-vue-elastic-node
+# Cities-vue-elastic-node
 
 ## Project setup
 ```
